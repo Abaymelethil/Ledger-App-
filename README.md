@@ -7,9 +7,9 @@ Notebooks — this is where it gets a bit much (in a good way). Keep proper note
 Backup & restore — export everything to a JSON file, restore from it later; auto-backs up every 3 days.
 Dark/light theme with a few accent colors (rose, amber, sage, sky, lavender).
 
-<img width="600" height="1335" alt="Screenshot_20260905-013243_Ledger" src="https://github.com/user-attachments/assets/6bf702a6-cad8-447e-befe-047c8466fed5" />
+<img width="480" height="1068" alt="Screenshot_20260905-013243_Ledger" src="https://github.com/user-attachments/assets/6bf702a6-cad8-447e-befe-047c8466fed5" />
 
-<img width="600" height="1335" alt="Screenshot_20260905-013004_Ledger" src="https://github.com/user-attachments/assets/96c23f65-4e78-49de-a4f4-39e462a83e92" />
+<img width="480" height="1068" alt="Screenshot_20260905-013004_Ledger" src="https://github.com/user-attachments/assets/96c23f65-4e78-49de-a4f4-39e462a83e92" />
 
 Getting Started
 Run the web app directly

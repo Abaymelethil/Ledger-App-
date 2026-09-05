@@ -1,9 +1,9 @@
-A journal + task + project-log app I built for myself — somewhere to dump daily notes, track todos, and keep a running log of what I'm building (versions, features, bugs) without juggling five different apps. Started as a plain HTML page, ended up wrapped into an Android app.
+A journal + task + project-log app I built for myself - somewhere to dump daily notes, track todos, and keep a running log of what I'm building (versions, features, bugs) without juggling five different apps. Started as a plain HTML page, ended up wrapped into an Android app.
 
 Features
-Journal— dead simple, no clutter. just writwe.
-Tasks — todo list with a built-in timer, so you can actually time yourself doing the thing instead of just listing it.
-Notebooks — this is where it gets a bit much (in a good way). Keep proper notes with diagrams, flowcharts, and tables, log project versions/features/bugs as you go, and export any of it straight to PDF.
+Journal-dead simple, no clutter. just writwe.
+Tasks - todo list with a built-in timer, so you can actually time yourself doing the thing instead of just listing it.
+Notebooks - this is where it gets a bit much (in a good way). Keep proper notes with diagrams, flowcharts, and tables, log project versions/features/bugs as you go, and export any of it straight to PDF.
 Backup & restore — export everything to a JSON file, restore from it later; auto-backs up every 3 days.
 Dark/light theme with a few accent colors (rose, amber, sage, sky, lavender).
 
